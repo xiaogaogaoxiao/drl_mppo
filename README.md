@@ -17,6 +17,9 @@ Deep reinforcement learning for multi-period portfolio optimization
 #### simulate.py
 - specifies the simulation process for the different agents
 
+#### param_optimization.py
+- implement random search parameter optimization
+
 #### main_*.py
 - main files take the input parameters for the agents and the environment, train the agent, and compare the trained agent strategy against three benchmark strategies on the same return series
 
