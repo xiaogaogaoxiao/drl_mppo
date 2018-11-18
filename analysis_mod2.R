@@ -310,8 +310,8 @@ ks.test(fu_sim_dqn$myopic, fu_sim_dqn$dqn)
 #### VI. EXPORT HIGH QUALITY PLOTS ####
 
 
-# 0. reset working directory:
-setwd("/home/alexander/Documents/studies/Semester 12_MBF/Masterarbeit/thesis/")
+# 0. reset working directory to directory where plots should be saved to:
+setwd("/~")
 
 # 0b. Average MSE loss between Q-value estimates and targets:
 png(filename = "avloss_mod2.png",
