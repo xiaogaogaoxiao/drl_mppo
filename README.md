@@ -21,4 +21,4 @@ Deep reinforcement learning for multi-period portfolio optimization
 - main files take the input parameters for the agents and the environment, train the agent, and compare the trained agent strategy against three benchmark strategies on the same return series
 
 #### analysis_*.R
-- scripts to analyze .csv outputs of main_dqn.py models
+- analyze .csv outputs of main_dqn.py models
